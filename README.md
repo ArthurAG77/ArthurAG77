@@ -1,4 +1,6 @@
-## Hi there 👋
+### Olá eu sou o Arthur Araujo 🖐️
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-araujo-gomes-4b6959211/)
+[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthuritos_ag/)
 
 <!--
 **ArthurAG77/ArthurAG77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
