@@ -11,5 +11,6 @@
 </div>
 <br>
 Dev junior, adorando minha jornada até aqui 🤩
+<br>
 Cursando analise e desenvolvimento de sistemas, terceiro semestre
 
